@@ -7,3 +7,6 @@ jobs:
 #     - uses: actions/checkout@v2
 #     - run: ./test.sh
     - run: dir
+    - run: mkdir Rohit
+    - run: systeminfo
+    
