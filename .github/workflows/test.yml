@@ -9,4 +9,6 @@ jobs:
     - run: dir
     - run: mkdir Rohit
     - run: systeminfo
+    - run: java -version
+    - run: python -version
     
